@@ -1,0 +1,9 @@
+﻿*.pb
+*.sdb
+*.qdb
+*.qpg
+*.qtl
+*.rlx
+xsim.dir/
+*.log
+*.jou
