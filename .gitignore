@@ -7,3 +7,9 @@
 xsim.dir/
 *.log
 *.jou
+
+__pycache__/
+*.pyc
+*.pyo
+sim/build/
+sim/Results/
